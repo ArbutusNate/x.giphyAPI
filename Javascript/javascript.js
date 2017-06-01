@@ -1,4 +1,4 @@
-var btnarray = ["Science", "Hiking", "Landscapes", "Botany"];
+var btnarray = ["30 Rock", "Comedy Bang! Bang!", "Community", "It's Always Sunny", "Parks and Rec"];
 function addbuttons(){
     $(".buttonzone").empty();
     for (var i = 0; i < btnarray.length; i++) {

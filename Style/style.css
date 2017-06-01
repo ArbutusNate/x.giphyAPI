@@ -6,6 +6,7 @@ body {
 }
 img {
 	height: auto;
+	border-radius: 25px;
 }
 .imgframe {
 	margin: 35px;
@@ -16,4 +17,5 @@ img {
 .imgframe{
 	background-color: salmon;
     width: 215px;
+    border-radius: 25px;
 }
